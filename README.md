@@ -19,9 +19,3 @@ An implementation of the Transformer architecture for Neural Machine Translation
 - Layer normalization
 - Residual connections
 - TensorBoard integration for training visualization
-
-## Setup & Training
-
-1. Install requirements:
-```bash
-pip install torch datasets tokenizers torchmetrics tensorboard tqdm
